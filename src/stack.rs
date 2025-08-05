@@ -1,5 +1,8 @@
 use std::fmt::Error;
 
+///this is a fixed size stack, kinda not the stack that I would probably use in an interview
+/// question
+/// but mostly useful when dealing with things in real world.
 pub struct Stack<T, const N: usize>
 where
     T: Default + Copy,
