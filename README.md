@@ -7,8 +7,8 @@ In particular:
 overhead for threads.
 - Also includes tokio, mio and mmap experiments.
 Find them here: 
-- https://github.com/blockxaero/rusted-ring
-- https://github.com/blockxaero/xaeroID
-- https://github.com/blockxaero/xaeroAI
-- https://github.com/blockxaero/xaeroflux
+- https://github.com/block-xaero/rusted-ring
+- https://github.com/block-xaero/xaeroID
+- https://github.com/block-xaero/xaeroAI
+- https://github.com/block-xaero/xaeroflux
 
